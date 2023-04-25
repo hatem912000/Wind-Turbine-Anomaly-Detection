@@ -11,7 +11,8 @@ The Kelmarsh dataset contains data from the Kelmarsh wind farm in the UK. The da
 
 ## Models
 For the Engie Dataset, I used some clustering techniques for outliers detection and compaired the results just by visulsing the results because this dataset is not labled.
-for the kelmarsh dataset, I implemented and trained several machine learning models, including:
+
+For the kelmarsh dataset, I implemented and trained several machine learning models, including:
 - Autoencoder (AE)
 - Long Short-Term Memory Autoencoder (LSTM-AE)
 - Convolutional Neural Network (CNN)
