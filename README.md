@@ -17,7 +17,6 @@ For the kelmarsh dataset, I implemented and trained several machine learning mod
 - Long Short-Term Memory Autoencoder (LSTM-AE)
 - Convolutional Neural Network (CNN)
 - Artificial Neural Network (ANN)
-- Support Vector Classifier (SVC)
 
 ## Results
 
